@@ -101,5 +101,3 @@ go run main.go
 1. 在你的 Go 项目文件夹里创建 `README.md`。
 2. 按照里面的目录结构创建文件夹。
 3. 你的下一步就是填充 `blockchain/client.go` 里的连接代码。
-
-**如果你准备好了，告诉我，我们开始写 `blockchain/client.go` 和 `main.go` 的基础代码！**
